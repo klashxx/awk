@@ -1,0 +1,14 @@
+       snaps1:          Counter:             4966
+        Opens:          Counter:           357283
+
+     Instance:     s.1.aps.userDatabase.mount275668.attributes
+
+       snaps1:          Counter:                0
+        Opens:          Counter:           357283
+
+     Instance:     s.1.aps.userDatabase.test.attributes
+
+       snaps1:          Counter:             5660
+        Opens:          Counter:            37283
+
+     Instance:     s.1.aps.userDatabase.mount275000.attributes
