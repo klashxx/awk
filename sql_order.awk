@@ -14,4 +14,4 @@ BEGIN{
      f=1
      next}
 !f{a[$1]=$0}
-f{print}
+f
