@@ -267,6 +267,17 @@ $ awk '{print NF}' lorem_ipsum.dat
 8
 10
 ````
+vs.
+
+```` shell
+$ awk '{print $NF}' lorem_ipsum.dat
+elit.
+condimentum.
+ex.
+tellus.
+elit.
+facilisis.
+````
 
 `FS` holds the valued of the *field separator*, this value is a single-character string or a `regex` that matches the separations between fields in an input record. 
 
